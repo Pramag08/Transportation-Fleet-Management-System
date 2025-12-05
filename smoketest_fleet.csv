@@ -1,0 +1,7 @@
+Type,ID,Model,MaxSpeed,Mileage,ExtraFields...
+Car,C1,Toyota,120.0,1000.0,4,50.0,2
+Truck,T1,Volvo,90.0,5000.0,6,120.0,2000.0
+Bus,B1,Mercedes,80.0,2000.0,6,80.0,20,500.0
+Airplane,A1,Boeing,900.0,15000.0,35000.0,5000.0,100,2000.0
+CargoShip,S1,Maersk,30.0,8000.0,false,1000.0,10000.0
+CargoShip,S2,OldSail,15.0,12000.0,true,0.0,5000.0

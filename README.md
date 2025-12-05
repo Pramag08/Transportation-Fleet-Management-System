@@ -1,4 +1,4 @@
-Highway Simulator - Multithreading & GUI
+# Highway Simulator - Multithreading & GUI
 
 ## Overview
 
